@@ -32,7 +32,7 @@ static const NSUInteger kGMUMinClusterSize = 4;
 static const float kGMUMaxClusterZoom = 20;
 
 // Animation duration for marker splitting/merging effects.
-static const double kGMUAnimationDuration = 0.5;  // seconds.
+static const double kGMUAnimationDuration = 0.2;  // seconds.
 
 @implementation GMUDefaultClusterRenderer {
   // Map view to render clusters on.
